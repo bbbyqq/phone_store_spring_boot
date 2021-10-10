@@ -1,1 +1,2 @@
-# phone_store_spring_boot
+# 备注
+此项目的前端对应项目为phone_store，地址为：https://github.com/bbbyqq/phone_store
